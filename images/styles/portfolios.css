@@ -1,0 +1,43 @@
+.{
+margin: 0px;
+
+}
+
+nav{
+display: flex;
+    margin:50px 200px;
+   justify-content: space-between;
+}
+.span-style{
+    color:rgb(240, 151, 35);
+
+}
+.button{
+    background-color: rgb(244, 197, 139);
+color: rgb(18, 18, 39);
+border: 0px;
+font-size: 40px;
+font-weight:50px;
+margin-top:0px;
+
+
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+   
+    list-style: none;
+    
+margin-right:50px;
+   
+
+}
+.banner-primary{
+   align-items:center;
+    margin: 50px 200px;
+    
+    
+
+}
